@@ -1,0 +1,12 @@
+{
+  "nombre": "Daniel Parada",
+  "titulo": "Estudiante de Informática Duoc UC | Entusiasta de la tecnología",
+  "bio": "Bienvenido a mi portafolio personal, donde comparto mis proyectos y noticias recientes. Explora y conoce más sobre mi trabajo.",
+  "foto": "img/bocanada.jpg",
+  "github": "https://github.com/daniel-duoc",
+  "redes": [
+    { "nombre": "GitHub", "url": "https://github.com/daniel-duoc" }
+  ],
+  "sobreMi": "Soy estudiante de Ingeniería en Informática. Me interesa el desarrollo web full stack, escribir código limpio y probarlo bien. Este portafolio reúne lo que he construido hasta ahora.",
+  "habilidades": ["JavaScript", "React", "Bootstrap", "HTML", "CSS", "Git", "Jasmine", "Karma"]
+}

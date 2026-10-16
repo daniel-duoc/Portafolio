@@ -1,0 +1,39 @@
+/* Estilos personalizados sobre Bootstrap */
+:root {
+  --color-primario: #5b21b6;
+  --color-secundario: #2563eb;
+}
+html { scroll-behavior: smooth; scroll-padding-top: 4rem; }
+body { padding-top: 56px; }
+
+.hero {
+  min-height: 90vh;
+  background: linear-gradient(120deg, var(--color-primario), var(--color-secundario));
+}
+.hero-foto { object-fit: cover; }
+.hero-bio { max-width: 60ch; }
+
+.btn-primary {
+  --bs-btn-bg: var(--color-primario);
+  --bs-btn-border-color: var(--color-primario);
+  --bs-btn-hover-bg: #4c1d95;
+  --bs-btn-hover-border-color: #4c1d95;
+}
+.btn-outline-primary {
+  --bs-btn-color: var(--color-primario);
+  --bs-btn-border-color: var(--color-primario);
+  --bs-btn-hover-bg: var(--color-primario);
+  --bs-btn-hover-border-color: var(--color-primario);
+}
+.text-bg-primary { background-color: var(--color-primario) !important; }
+
+.project-card .card-img-top { aspect-ratio: 20 / 11; object-fit: cover; }
+
+/* Foco visible para navegación con teclado */
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible {
+  outline: 3px solid #f59e0b;
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

@@ -1,0 +1,16 @@
+{
+  "tecnologia": {
+    "titulo": "Noticias de tecnología",
+    "items": [
+      { "id": 1, "titulo": "React sigue creciendo en la industria", "fecha": "2026-09-20", "contenido": "Cada vez más empresas adoptan React para sus interfaces web, y su ecosistema de herramientas de prueba sigue madurando." },
+      { "id": 2, "titulo": "Bootstrap 5 y la web responsiva", "fecha": "2026-09-12", "contenido": "El sistema de cuadrícula sigue siendo una forma rápida de adaptar un sitio a celulares, tablets y escritorio." }
+    ]
+  },
+  "personales": {
+    "titulo": "Novedades del portafolio",
+    "items": [
+      { "id": 1, "titulo": "Primer proyecto publicado", "fecha": "2026-10-01", "contenido": "Publiqué mi primer proyecto en GitHub Pages y lo documenté con un README paso a paso para instalarlo y probarlo." },
+      { "id": 2, "titulo": "Pruebas unitarias con Jasmine", "fecha": "2026-10-10", "contenido": "Configuré Karma para ejecutar las pruebas en distintos navegadores y generé el informe de cobertura." }
+    ]
+  }
+}

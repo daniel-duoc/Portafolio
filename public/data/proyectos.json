@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tienda en línea",
+    "descripcion": "Catálogo de productos con carrito de compras y diseño responsivo.",
+    "imagen": "img/Captura de pantalla 2026-10-16 105423.png",
+    "tecnologias": ["React", "Bootstrap", "JavaScript"],
+    "enlace": "https://vguzc.github.io/Pasteleria_Mil_Sabores_P1_FSII/"
+  }
+]
