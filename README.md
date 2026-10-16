@@ -6,8 +6,6 @@ Portafolio personal hecho con **React + Vite + Bootstrap 5**. Los datos (perfil,
 
 **Demo:** https://daniel-duoc.github.io/Portafolio/
 
-![Captura del portafolio](docs/captura-portafolio.png)
-
 ## Requisitos
 - Node.js 18 o superior
 - Google Chrome (y opcionalmente Firefox) para Karma
