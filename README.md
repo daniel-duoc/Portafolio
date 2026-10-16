@@ -4,7 +4,7 @@ Portafolio personal hecho con **React + Vite + Bootstrap 5**. Los datos (perfil,
 
 > DSY1104 – Desarrollo Fullstack II · Evaluación Formativa N° 2
 
-**Demo:** https://daniel-duoc.github.io/TU-REPO/
+**Demo:** https://daniel-duoc.github.io/Portafolio/
 
 ![Captura del portafolio](docs/captura-portafolio.png)
 
